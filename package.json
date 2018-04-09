@@ -1,0 +1,23 @@
+{
+  "name": "zadanie_24",
+  "version": "1.0.0",
+  "description": "Unit test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paszak/zadanie_24.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paszak/zadanie_24/issues"
+  },
+  "homepage": "https://github.com/Paszak/zadanie_24#readme",
+  "dependencies": {
+    "mocha": "^5.0.5"
+  }
+}
