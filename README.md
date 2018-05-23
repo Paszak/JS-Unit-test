@@ -1,2 +1,2 @@
-# zadanie_24
+# JS-Unit-test
 Unit test
